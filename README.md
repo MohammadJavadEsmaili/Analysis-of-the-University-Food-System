@@ -1,62 +1,71 @@
-# 📊 UML & Use Case Diagram Documentation  
-**Course:** System Analysis & Design (Software Associate Degree)  
-**Field:** Software Engineering – Computer Science  
-**Institution:** Sooreh University of Applied Science, Isfahan Campus  
+# 📊 مستند نمودارهای UML و Use Case  
+**درس:** تجزیه و تحلیل سیستم‌ها  
+**مقطع:** کاردانی نرم‌افزار  
+**دانشکده:** سروش اصفهان  
 
 ---
 
-## 👨‍🎓 Student Information  
-**Name:** Mohammad Javad Esmaeili  
-**Degree:** Associate Degree (Kardani) in Software Engineering  
-**Course Level:** Associate (Associate Degree)  
-**Project Platform:** Miro (Diagram design and modeling)
+## 👨‍🎓 مشخصات دانشجو  
+**نام و نام خانوادگی:** محمدجواد اسماعیلی  
+**مقطع تحصیلی:** کاردانی ناپیوسته نرم‌افزار  
+**درس مرتبط:** تجزیه و تحلیل و طراحی سیستم  
+**پلتفرم طراحی نمودارها:** Miro  
 
 ---
 
-## 📌 Project Overview  
-This project includes four essential UML and system modeling diagrams designed as part of the **System Analysis & Design** course.  
-All diagrams were created using the **Miro** platform and are provided as clickable links to be opened directly in the browser.
+## 📌 معرفی پروژه  
+این پروژه شامل **4 نمودار اصلی UML و مدل‌سازی سیستم** است که در قالب لینک‌های قابل کلیک از سایت **Miro** طراحی شده‌اند.  
+هدف از ایجاد این نمودارها، نمایش بخش‌های مختلف سیستم از جمله **تعامل کاربران با سیستم، ساختار کلاس‌ها، توالی پیام‌ها و جریان فعالیت‌ها** می‌باشد.  
+هر لینک به‌صورت مستقیم در مرورگر باز شده و نمودار طراحی شده را نمایش می‌دهد.
 
 ---
 
-## 🔗 Diagram Links  
+## 🔗 لینک نمودارها  
 
-| Diagram Type | Purpose |
-|------------|---------|
-| [Use Case Diagram](YOUR_USE_CASE_LINK) | Defines system actors and their interactions |
-| [Sequence Diagram](YOUR_SEQUENCE_LINK) | Shows message exchange over time |
-| [Class Diagram](YOUR_CLASS_LINK) | Models system structure and relationships |
-| [Activity Diagram](YOUR_ACTIVITY_LINK) | Illustrates workflow and decision paths |
-
----
-
-## 🧠 Learning Outcomes  
-Through the design and implementation of these diagrams, the following skills were developed:
-
-- Understanding system requirements
-- Identifying system actors and use cases
-- Modeling object relationships
-- Visualizing workflows and business logic
-- Representing dynamic behavior through message sequences
+| نوع نمودار | کاربرد |
+|-----------|--------|
+| [نمودار Use Case](YOUR_USE_CASE_LINK) | نمایش بازیگران سیستم و تعامل آن‌ها با بخش‌های مختلف |
+| [نمودار Sequence](YOUR_SEQUENCE_LINK) | نمایش توالی پیام‌ها و ارتباط بین اجزای سیستم در زمان اجرا |
+| [نمودار Class](YOUR_CLASS_LINK) | نمایش ساختار کلاس‌ها، ویژگی‌ها، متدها و روابط بین آن‌ها |
+| [نمودار Activity](YOUR_ACTIVITY_LINK) | نمایش جریان فرآیندها، تصمیم‌گیری‌ها و مسیر اجرای عملیات |
 
 ---
 
-## 🚀 Usage  
-To view each diagram, simply click the corresponding link above.  
-The link will open in your default browser and display the diagram hosted on Miro.
+## 🎯 اهداف آموزشی و مهارت‌های کسب شده  
+با طراحی این نمودارها، موارد زیر تقویت و فراگرفته شده است:
+
+- تحلیل و درک نیازمندی‌های سیستم  
+- شناسایی بازیگران و سناریوهای کاربردی  
+- مدل‌سازی ساختار سیستم با استفاده از کلاس‌ها و روابط  
+- طراحی رفتار پویا و تعامل بین اجزا  
+- نمایش جریان فرآیندها و منطق تصمیم‌گیری  
 
 ---
 
-## 📚 Course Relevance  
-These diagrams reflect key concepts taught in the course, including:
+## 🚀 نحوه استفاده  
+برای مشاهده هر نمودار:
 
-- Requirements engineering
-- Structural and behavioral modeling
-- Interaction design
-- Process and workflow analysis
+1. روی لینک مربوطه در جدول بالا کلیک کنید  
+2. نمودار در مرورگر و از طریق سایت Miro نمایش داده می‌شود  
+3. امکان بزرگ‌نمایی و بررسی کامل نمودار وجود دارد  
 
 ---
 
-## ✍️ Author  
-**Mohammad Javad Esmaeili**  
-Sooreh University of Applied Science – Isfahan Campus  
+## 📚 ارتباط با درس تجزیه و تحلیل  
+این نمودارها مفاهیم اصلی تدریس شده در این درس را پوشش می‌دهند، از جمله:
+
+- مهندسی نیازمندی‌ها  
+- مدل‌سازی ساختاری و رفتاری سیستم  
+- طراحی تعامل بین کاربر و سیستم  
+- تحلیل جریان کاری و فرآیندها  
+
+---
+
+## ✍️ تهیه‌کننده  
+**محمدجواد اسماعیلی**  
+دانشکده سروش اصفهان – مقطع کاردانی نرم‌افزار  
+
+---  
+
+> 🔹 این مستند برای ارائه پروژه در GitHub و باز شدن لینک‌ها در مرورگر تنظیم شده است.  
+> 🔹 تمام نمودارها به‌صورت آنلاین و از طریق Miro قابل مشاهده هستند.
