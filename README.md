@@ -28,7 +28,7 @@
 | Use Case Diagram | `YOUR_USE_CASE_LINK` | نمایش بازیگران و تعامل با سیستم |
 | Sequence Diagram | `YOUR_SEQUENCE_LINK` | نمایش توالی پیام‌ها بین اجزای سیستم |
 | Class Diagram | `YOUR_CLASS_LINK` | نمایش ساختار کلاس‌ها و روابط |
-| Activity Diagram | `<a> href="https://miro.com/app/board/uXjVGUERreE=/?share_link_id=412337690652">open</a>` | نمایش جریان فرآیندها و تصمیم‌ها |
+| Activity Diagram | `باز کردن صفحه نمودارها در مرورگر](diagrams.html` | نمایش جریان فرآیندها و تصمیم‌ها |
 
 ---
 
